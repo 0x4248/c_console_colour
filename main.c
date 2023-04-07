@@ -1,3 +1,8 @@
+/* Console_colour
+ * A simple header file to add colour to your console output.
+ * GitHub: https://www.github.com/awesomelewis2007/c_console_colour
+*/
+
 #include <stdio.h>
 
 #include "src/colour.h"
