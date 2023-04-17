@@ -16,6 +16,7 @@ int main(int argc, char const *argv[])
     printf("%sHello, World!%s\n", ANSI_COLOR_MAGENTA, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOR_CYAN, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOR_WHITE, ANSI_COLOR_RESET);
+    printf("%sHello, World!%s\n", ANSI_COLOR_GRAY, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOR_BLACK, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_BOLD_RED, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_BOLD_GREEN, ANSI_COLOR_RESET);
@@ -24,6 +25,7 @@ int main(int argc, char const *argv[])
     printf("%sHello, World!%s\n", ANSI_COLOUR_BOLD_MAGENTA, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_BOLD_CYAN, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_BOLD_WHITE, ANSI_COLOR_RESET);
+    printf("%sHello, World!%s\n", ANSI_COLOUR_BOLD_GRAY, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_BOLD_BLACK, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_DIM_RED, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_DIM_GREEN, ANSI_COLOR_RESET);
@@ -40,6 +42,7 @@ int main(int argc, char const *argv[])
     printf("%sHello, World!%s\n", ANSI_COLOUR_ITALICS_MAGENTA, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_ITALICS_CYAN, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_ITALICS_WHITE, ANSI_COLOR_RESET);
+    printf("%sHello, World!%s\n", ANSI_COLOUR_ITALICS_GRAY, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_ITALICS_BLACK, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_UNDERLINE_RED, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_UNDERLINE_GREEN, ANSI_COLOR_RESET);
@@ -48,5 +51,6 @@ int main(int argc, char const *argv[])
     printf("%sHello, World!%s\n", ANSI_COLOUR_UNDERLINE_MAGENTA, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_UNDERLINE_CYAN, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_UNDERLINE_WHITE, ANSI_COLOR_RESET);
+    printf("%sHello, World!%s\n", ANSI_COLOUR_UNDERLINE_GRAY, ANSI_COLOR_RESET);
     printf("%sHello, World!%s\n", ANSI_COLOUR_UNDERLINE_BLACK, ANSI_COLOR_RESET);
 }
