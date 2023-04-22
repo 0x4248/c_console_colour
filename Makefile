@@ -1,7 +1,7 @@
 # Console_colour (Makefile)
 # A simple header file to add colour to your console output.
 # GitHub: https://www.github.com/awesomelewis2007/Console_colour
-# Licence: GPL-v3.0
+# Licence: GPL-3.0
 # By: Lewis Evans
 
 COMPILER = gcc
