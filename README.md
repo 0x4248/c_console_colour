@@ -50,6 +50,6 @@ printf("%sHello, World!%s\n", ANSI_COLOR_ITALIC_RED, ANSI_COLOR_RESET);
 printf("%sHello, World!%s\n", ANSI_COLOR_DIM_RED, ANSI_COLOR_RESET);
 ```
 
-## 📝 License
+## Licence
 
-This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details
+This project is licenced under the GPL-3.0 Licence - see the [LICENCE](LICENCE) file for details
