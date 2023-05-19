@@ -49,3 +49,7 @@ printf("%sHello, World!%s\n", ANSI_COLOR_ITALIC_RED, ANSI_COLOR_RESET);
 ```c
 printf("%sHello, World!%s\n", ANSI_COLOR_DIM_RED, ANSI_COLOR_RESET);
 ```
+
+## 📝 License
+
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details
