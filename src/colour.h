@@ -8,6 +8,7 @@
 #ifndef COLOUR
 #define COLOUR
 
+// Normal colours
 #define ANSI_COLOR_RED "\033[31m"
 #define ANSI_COLOR_GREEN "\033[32m"
 #define ANSI_COLOR_YELLOW "\033[33m"
@@ -19,6 +20,7 @@
 #define ANSI_COLOR_BLACK "\033[30m"
 #define ANSI_COLOR_RESET "\033[0m"
 
+// Bold colours
 #define ANSI_COLOUR_BOLD_RED "\033[1;31m"
 #define ANSI_COLOUR_BOLD_GREEN "\033[1;32m"
 #define ANSI_COLOUR_BOLD_YELLOW "\033[1;33m"
@@ -29,6 +31,7 @@
 #define ANSI_COLOUR_BOLD_GRAY "\033[1;90m"
 #define ANSI_COLOUR_BOLD_BLACK "\033[1;30m"
 
+// Dim colours
 #define ANSI_COLOUR_DIM_RED "\033[2;31m"
 #define ANSI_COLOUR_DIM_GREEN "\033[2;32m"
 #define ANSI_COLOUR_DIM_YELLOW "\033[2;33m"
@@ -39,6 +42,7 @@
 #define ANSI_COLOUR_DIM_GRAY "\033[2;90m"
 #define ANSI_COLOUR_DIM_BLACK "\033[2;30m"
 
+// Italic colours
 #define ANSI_COLOUR_ITALICS_RED "\033[3;31m"
 #define ANSI_COLOUR_ITALICS_GREEN "\033[3;32m"
 #define ANSI_COLOUR_ITALICS_YELLOW "\033[3;33m"
@@ -49,6 +53,7 @@
 #define ANSI_COLOUR_ITALICS_GRAY "\033[3;90m"
 #define ANSI_COLOUR_ITALICS_BLACK "\033[3;30m"
 
+// Underline colours
 #define ANSI_COLOUR_UNDERLINE_RED "\033[4;31m"
 #define ANSI_COLOUR_UNDERLINE_GREEN "\033[4;32m"
 #define ANSI_COLOUR_UNDERLINE_YELLOW "\033[4;33m"
